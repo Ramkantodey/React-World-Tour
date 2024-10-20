@@ -12,8 +12,7 @@ const countries = () => {
     }, [])
 
     const handleVisitedCountry = country => {
-        console.log('add this to you visited country');
-        console.log(country);
+
     }
 
     return (
